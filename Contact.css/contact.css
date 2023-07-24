@@ -1,0 +1,55 @@
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color:#E9C46A;
+    }
+    
+    .container {
+      max-width: 600px;
+      margin: 20px auto;
+      padding: 20px;
+      border: 2px solid #ccc;
+      border-radius: 5px;
+      background-color: #2A9D8F;
+    }
+    
+    h2 {
+      color: #264653;
+    }
+    
+    .social-links {
+      margin-bottom: 20px;
+    }
+    
+    .social-links a {
+      display: inline-block;
+      margin-right: 20px;
+      color: #E9C46A;
+      background-color: #E76F51;
+      text-decoration: none;
+      
+    }
+    
+    label {
+      color: #264653;
+    }
+    
+    input[type="email"],
+    textarea {
+      width: 100%;
+      padding: 8px;
+      background-color: white;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      resize: vertical;
+    }
+    
+    button {
+      background-color: #264653;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 3px;
+      cursor: pointer;
+    }
